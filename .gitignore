@@ -24,6 +24,10 @@ hugo.linux
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 
+# Icon must end with two \r
+Icon
+node_modules/*
+
 # Local History for Visual Studio Code
 .history/
 
