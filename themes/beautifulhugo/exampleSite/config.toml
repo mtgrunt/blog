@@ -14,7 +14,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "I'm a computer support analyst by day and a web developer by night. I code HTML5, CSS3, Javascript, PHP, Python and Ruby.  I arranged my Django website and I programmed various apps and websites for Django 4.0."
+  subtitle = "I'm a computer support analyst by day and a web developer by night. I code HTML5, CSS3, Javascript, PHP, Python and Ruby. I arranged my Django website and I programmed various apps and websites for Django 4.0."
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"

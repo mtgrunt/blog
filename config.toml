@@ -1,7 +1,7 @@
 baseurl = "https://mtgrunt.github.io"
 languageCode = 'en-us'
 DefaultContentLanguage = "en"
-title = "Miles Wallace"
+title = "Miles Wallace" 
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
@@ -13,11 +13,12 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "I'm a computer support analyst by day and a web developer by night. I code HTML5, CSS3, Javascript, PHP, Python and Ruby.  I arranged my Django website and I programmed various apps and websites for Django 4.0."
+  homeTitle = "Hello. 👋" # Set a different text for the header on the home page
+  subtitle = "I’m Miles and I'm a computer support analyst by day and a web developer by night. I am interested in new trends and technologies related to CSS3, HTML5, JavaScript and Python techniques. As part of my workflow, I love the open source tools. Additionally, I enjoy most mainstream American sports; particularly football. I’m a 49ers fan."
+  date_format = "Mon, 2. Jan. 2006"
   mainSections = ["post","posts"]
-  logo = "img/avatar-icon.png" # Expecting square dimensions
-  favicon = "img/favicon.ico"
+  logo = "img/favicon.png" # Expecting square dimensions
+  favicon = "/img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
@@ -82,40 +83,22 @@ pygmentsCodefencesGuessSyntax = true
   #discord = "invite code (https://discord.gg/XXXXXXX)"
   #strava = "userid"
 
-[[menu.main]]
-    name = "Blog"
-    url = ""
-    weight = 1
+#[[menu.main]]
+#    name = "Blog"
+#    url = ""
+#    weight = 1
 
 [[menu.main]]
     name = "About"
     url = "page/about/"
-    weight = 3
-
-[[menu.main]]
-    identifier = "samples"
-    name = "Samples"
-    weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
     weight = 1
 
 [[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
+    name = "Projects"
+    url = "page/projects/"
     weight = 2
 
-[[menu.main]]
-    parent = "samples"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
-    weight = 3
-
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 3
+#[[menu.main]]
+#    name = "Tags"
+#    url = "tags"
+#    weight = 3
