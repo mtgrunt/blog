@@ -14,7 +14,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
   homeTitle = "Hello. 👋" # Set a different text for the header on the home page
-  subtitle = "I’m Miles and I'm a computer support analyst by day and a web developer by night. I am interested in new trends and technologies related to CSS3, HTML5, JavaScript and Python techniques. As part of my workflow, I love the open source tools. Additionally, I’m a 49ers fan."
+  subtitle = "I’m Miles and I'm a computer support analyst by day and a web developer by night. I am interested in new trends and technologies related to CSS3, HTML5, JavaScript and Python techniques. As part of my workflow, I love the open source tools."
   date_format = "Mon, 2. Jan. 2006"
   mainSections = ["post","posts"]
   logo = "img/favicon.png" # Expecting square dimensions
@@ -26,7 +26,7 @@ pygmentsCodefencesGuessSyntax = true
   readingTime = true
   wordCount = true
   useHLJS = true
-  socialShare = true
+  socialShare = false
   delayDisqus = true
   showRelatedPosts = true
 #  hideAuthor = true
