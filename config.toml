@@ -19,6 +19,7 @@ pygmentsCodefencesGuessSyntax = true
   mainSections = ["post","posts"]
   logo = "img/favicon.png" # Expecting square dimensions
   favicon = "/img/favicon.ico"
+  photo = "cartoon.png"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true

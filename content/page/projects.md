@@ -1,13 +1,13 @@
 ---
 title: "Projects"
-date: 2023-02-06T23:37:36-08:00
+date: 2023-02-18T23:37:36-08:00
 author: "Miles Wallace"
 description: "Utilizing 4G LTE wireless modems on a Raspberry Pi 4."
 tags: ["4g lte", "wireless", "modems", "raspberry pi", "raspberry pi 4"]
 #font: ""
 ---
-02/06/2023
-
+_____
+02/18/2023
 The Raspberry Pi 4 is a powerful single-board computer that has many uses, including media playback, home automation, and web browsing. However, in certain situations, a wired internet connection may not be available. In these cases, connecting a 4G LTE modem to the Raspberry Pi can provide a convenient and reliable mobile broadband connection.
 
 To get started, you will need to connect the modem to the Raspberry Pi's USB port. Some modems may require an external power source, so make sure to check the specifications of your specific modem before attempting to connect it. After connecting the modem, you will need to install the necessary drivers and software on your Raspberry Pi. This can typically be done using the terminal or command line interface.
