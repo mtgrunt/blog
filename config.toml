@@ -98,7 +98,7 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     name = "Project"
     url = "page/project/"
-    weight = 2
+    weight = 1
     body_classes = "open-sans-v15-latin-regular"
 
 #[[menu.main]]
