@@ -5,7 +5,7 @@ author: "Miles Wallace"
 description: "Utilizing 4G LTE wireless modems on a Raspberry Pi 4."
 tags: ["4g lte", "wireless", "modems", "raspberry pi", "raspberry pi 4"]
 cover:
-    image: raspberry_pi.png
+    image: img/raspberry_pi.png
     alt: 'This is a post image'
     caption: 'This is the caption'
 ---
