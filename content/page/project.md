@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Project"
 date: 2023-02-18T23:37:36-08:00
 author: "Miles Wallace"
 description: "Utilizing 4G LTE wireless modems on a Raspberry Pi 4."
