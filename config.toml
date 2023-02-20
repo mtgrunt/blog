@@ -14,7 +14,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
   homeTitle = "Hello. 👋" # Set a different text for the header on the home page
-  {{< img src="img/cartoon.png" alt="My cartoon image" >}}
+  < img src="img/cartoon.png" alt="My cartoon image" >
   subtitle = "I’m Miles and I'm a computer support analyst by day and a web developer by night. I am interested in new trends and technologies related to CSS3, HTML5, JavaScript and Python techniques. As part of my workflow, I love open-source."
   date_format = "Mon, 2. Jan. 2006"
   mainSections = ["post","posts"]
