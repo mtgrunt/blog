@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "The ongoing military conflict between Russia and Ukraine has been one of the most significant geopolitical crises."
 date: 03/03/2023
 author: "Miles Wallace"
 description: "Military conflict between Russia and Ukraine"
