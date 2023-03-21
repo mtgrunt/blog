@@ -4,7 +4,6 @@ date: 03/20/2023
 author: "Miles Wallace"
 description: "United States Abrams to Ukraine."
 tags: ["Ukraine", "Russia", "Abrams", "Ukraine War", "United States"]
-#font: ""
 ---
 ## “United States Abrams to Ukraine.”
 #### _03/20/2023_  

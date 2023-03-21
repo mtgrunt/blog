@@ -4,10 +4,7 @@ date: 2023-03-05T23:37:36-08:00
 author: "Miles Wallace"
 description: "Building a Hugo Website with GitHub"
 tags: ["Hugo", "GitHub", "Hugo website"]
-#cover:
-    #image: img/raspberry_pi.png
-    #alt: 'This is a post image'
-    #caption: 'This is the caption'
+
 ---
 ## "Building a Hugo Website with GitHub."
 #### _03/05/2023_  
