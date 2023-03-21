@@ -7,8 +7,8 @@ tags: ["Cloudflare", "Zero Trust", "VPN"]
 ---
 ## "Cloudflare Zero Trust Model."
 #### _03/21/2023_ 
-____
-Here are the steps to set up a Zero Trust model using Cloudflare:
+ 
+ Here are the steps to set up a Zero Trust model using Cloudflare:
 
 1. Sign up for a Cloudflare account and create a new project.
 
