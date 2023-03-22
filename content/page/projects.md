@@ -4,6 +4,7 @@ date: 2023-03-21T23:37:36-08:00
 author: "Miles Wallace"
 description: "Cloudflare Zero Trust Model"
 tags: ["Cloudflare", "Zero Trust", "VPN"]
+#font: ""
 ---
 ## "Cloudflare Zero Trust Model."
 #### _03/21/2023_ 
