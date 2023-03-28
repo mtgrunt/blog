@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-date: 2023-03-21T23:37:36-08:00
+date: 03/27/2023
 author: "Miles Wallace"
 description: "Cloudflare Zero Trust Model"
 tags: ["Cloudflare", "Zero Trust", "VPN"]
