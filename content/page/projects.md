@@ -7,7 +7,7 @@ tags: ["Cloudflare", "Zero Trust", "VPN"]
 #font: ""
 ---
 ## "Cloudflare Zero Trust Model."
-#### _03/27/2023_ 
+#### _03/27cd /2023_ 
 ____
 Here are the steps to set up a Zero Trust model using Cloudflare:
 
