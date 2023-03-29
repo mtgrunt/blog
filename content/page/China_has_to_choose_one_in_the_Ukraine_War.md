@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "Geopolitics:00"
 date: 03/05/2023
 author: "Miles Wallace"
 description: "China has to choose Russia or Ukraine."
