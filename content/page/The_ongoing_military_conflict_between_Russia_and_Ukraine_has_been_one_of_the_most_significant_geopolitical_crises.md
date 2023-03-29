@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "Geopolitics:00"
 date: 03/03/2023
 author: "Miles Wallace"
 description: "Military conflict between Russia and Ukraine"

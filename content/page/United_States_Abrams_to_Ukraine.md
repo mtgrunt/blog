@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "Geopolitics:02"
 date: 03/20/2023
 author: "Miles Wallace"
 description: "United States Abrams to Ukraine."
