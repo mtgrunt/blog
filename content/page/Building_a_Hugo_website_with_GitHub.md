@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-date: 2023-03-05T23:37:36-08:00
+date: 03/05/2023
 author: "Miles Wallace"
 description: "Building a Hugo Website with GitHub"
 tags: ["Hugo", "GitHub", "Hugo website"]
