@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 [Params]
   homeTitle = "Hello. 👋" # Set a different text for the header on the home page
   src = "/img/cartoon.png"
-  subtitle = "I’m Miles and I'm a computer support analyst by day and a web developer by night. I am interested in new trends and technologies related to CSS3, HTML5, JavaScript and Python techniques. As part of my workflow, I love open-source."
+  subtitle = "I’m Miles and I'm a computer support analyst by day and a web developer by night. I am interested in new trends and technologies related to CSS3, HTML5, JavaScript and Python techniques. As part of my workflow, I love open-source. Aside from that, my interest is in geopolitics, which is the study of the relationship between geography, politics and economics in different parts of the world and is informed by my background in history."
   date_format = "Mon, 2. Jan. 2006"
   mainSections = ["post","posts"]
   logo = "img/favicon.png" # Expecting square dimensions
