@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics:05"
+title: "Geopolitics:03"
 date: 04/10/2023
 author: "Miles Wallace"
 description: "Leak of Sensitive Information"
