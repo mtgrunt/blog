@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "Geopolitics3"
 date: 04/05/2023
 author: "Miles Wallace"
 description: "China's Integrated Power"
