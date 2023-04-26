@@ -6,7 +6,7 @@ description: "Fire and Ice: The Ukrainian Conflict, Putin's Expansionism and the
 tags: ["Russia", "Ukraine", "Crimea", "Vladimir Putin", "Zelenskyy", "Biden", "Soviet", "NATO", "The Renaissance", "Reformation", "Poland", "Lithuania", "Cossacks", "Stalin", "Hitler", "Trump", "M1 Abrams",]
 #font: ""
 ---
-## "Fire and Ice: The Ukrainian Conflict, Putin's Expansionism, and the Global Power Struggle."
+## "Fire and Ice: The Ukrainian Conflict, Putin's Expansionism and the Global Power Struggle."
 #### _04/25/2023_  
 ____
 Russian President Vladimir Putin's lies about Ukraine have fueled the ongoing conflict between the two nations. Putin has actively perpetuated myths about Ukraine's historical ties to Russia and its role in Russia's cultural identity, portraying Ukraine as a subordinate nation to Russia. This false narrative has been used to justify Russia's annexation of Crimea in 2014 and its continued military intervention in eastern Ukraine. Putin's misinformation campaign has made the world a more dangerous place, as it undermines international norms and fuels tensions between Russia and other nations. The ongoing conflict in Ukraine highlights the devastating consequences of propaganda and the need for truth and accountability in international relations.
