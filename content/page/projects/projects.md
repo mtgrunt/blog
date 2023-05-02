@@ -1,5 +1,5 @@
 ---
-title: "Breaking News: Debian 11.7 Released with 102 Security Updates and Bug Fixes for Popular Linux Distro"
+title: "Debian 11.7"
 date: 05/02/2023
 author: "Miles Wallace"
 description: "Breaking News: Debian 11.7 Released with 102 Security Updates and Bug Fixes for Popular Linux Distro!"
