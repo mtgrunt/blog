@@ -2,10 +2,10 @@
 title: "Debian 11.7"
 date: 05/02/2023
 author: "Miles Wallace"
-description: "Breaking News: Debian 11.7 Released with 102 Security Updates and Bug Fixes for Popular Linux Distro!"
+description: "Debian 11.7 Released with 102 Security Updates and Bug Fixes for Popular Linux Distro!"
 tags: ["Debian", "Debian 11.7", "ISO", "Bullseye", "Linux", "GNU", "KDE Plasma", "GNOME", "Xfce","LXQt", "LXDE", "64-bit", "32-bit", "arm64", ]
 ---
-## "Breaking News: Debian 11.7 Released with 102 Security Updates and Bug Fixes for Popular Linux Distro!"
+## "Debian 11.7 Released with 102 Security Updates and Bug Fixes for Popular Linux Distro!"
 #### _05/02/2023_ 
 ____
 The Debian Project, a community-driven free and open-source software project that develops one of the most popular Linux distributions, has announced the release of Debian 11.7. This is the seventh ISO update to the Debian GNU/Linux 11 “Bullseye” operating system series. The release includes all the security and software updates released since the last release, Debian 11.6, in December 2022.
