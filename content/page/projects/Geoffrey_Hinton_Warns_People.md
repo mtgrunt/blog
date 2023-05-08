@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Hinton Warns People about A.I."
 date: 05/08/2023
 author: "Miles Wallace"
 description: "Geoffrey Hinton: The Godfather of AI Warns of Looming Dangers"
