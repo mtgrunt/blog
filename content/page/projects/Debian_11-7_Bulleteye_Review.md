@@ -1,5 +1,5 @@
 ---
-title: "Debian 11.7"
+title: "Projects:04"
 date: 05/02/2023
 author: "Miles Wallace"
 description: "Debian 11.7 Released with 102 Security Updates and Bug Fixes for Popular Linux Distro!"

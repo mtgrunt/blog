@@ -1,5 +1,5 @@
 ---
-title: "System76 Pangolin Laptop Review: High-Quality Linux-Based Computer with Impressive Hardware Integration"
+title: "Projects:07"
 date: 04/21/2023
 author: "Miles Wallace"
 description: "System76 Pangolin Laptop Review: High-Quality Linux-Based Computer with Impressive Hardware Integration."

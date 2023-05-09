@@ -1,5 +1,5 @@
 ---
-title: "Kevin McCarthy"
+title: "Geopolitics:07"
 date: 05/02/2023
 author: "Miles Wallace"
 description: "Kevin McCarthy Takes Strong Stance Against Far-Right Republicans on Ukraine Aid"

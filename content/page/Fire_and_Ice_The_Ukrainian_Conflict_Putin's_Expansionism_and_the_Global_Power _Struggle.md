@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "Geopolitics:05"
 date: 04/25/2023
 author: "Miles Wallace"
 description: "Fire and Ice: The Ukrainian Conflict, Putin's Expansionism and the Global Power Struggle"
