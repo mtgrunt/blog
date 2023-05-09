@@ -1,5 +1,5 @@
 ---
-title: "Escalation in Russia-Ukraine War"
+title: "Geopolitics"
 date: 05/08/2023
 author: "Miles Wallace"
 description: "Recent Escalation in Russia-Ukraine Conflict: Missile Strikes Target Civilians and Food Supplies."
