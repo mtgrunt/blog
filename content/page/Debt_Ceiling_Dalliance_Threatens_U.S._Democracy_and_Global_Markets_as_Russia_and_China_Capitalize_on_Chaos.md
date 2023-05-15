@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "Geopolitics:09"
 date: 05/15/2023
 author: "Miles Wallace"
 description: "Debt Ceiling Dalliance Threatens U.S. Democracy and Global Markets as Russia and China Capitalize on Chaos."
