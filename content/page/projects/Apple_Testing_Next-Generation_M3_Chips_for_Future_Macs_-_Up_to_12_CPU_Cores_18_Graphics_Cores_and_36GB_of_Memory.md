@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Projects:08"
 date: 05/15/2023
 author: "Miles Wallace"
 description: "Apple Testing Next-Generation M3 Chips for Future Macs: Up to 12 CPU Cores, 18 Graphics Cores and 36GB of Memory."
