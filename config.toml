@@ -107,8 +107,8 @@ pygmentsCodefencesGuessSyntax = true
     weight = 3
     body_classes = "open-sans-v15-latin-regular"
 
-#[[menu.main]]
-#    name = "NFL"
-#    url = "page/nfl/"
-#    weight = 4
-#    body_classes = "open-sans-v15-latin-regular"
+[[menu.main]]
+    name = "Archive"
+    url = "page/archive/"
+    weight = 4
+    body_classes = "open-sans-v15-latin-regular"
