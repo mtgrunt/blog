@@ -8,6 +8,7 @@ description: "Archive"
 ---
 
 ____
-Sorted By Date:
-## "The ongoing military conflict between Russia and Ukraine has been one of the most significant geopolitical crises."
-#### _03/03/2023_ 
+## Sorted By Date:
+[permalinks]
+  '/' = '/:year/:month/:title/'
+
