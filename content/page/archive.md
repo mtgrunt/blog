@@ -9,6 +9,5 @@ description: "Archive"
 
 ____
 ## Sorted By Date:
-[permalinks]
-  '/' = '/:year/:month/:title/'
+Coming Soon.
 
