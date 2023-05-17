@@ -108,8 +108,8 @@ pygmentsCodefencesGuessSyntax = true
     body_classes = "open-sans-v15-latin-regular"
 
 [[menu.main]]
-    name = "Archive"
-    url = "page/archive/"
+    name = "Archives"
+    url = "page/archives/archives/"
     weight = 4
     body_classes = "open-sans-v15-latin-regular"
     

@@ -1,8 +1,8 @@
 ---
-title: "Archive"
+title: "Archives"
 date: 2022-12-24T17:51:57-08:00
 author: "Miles Wallace"
-description: "Archive"
+description: "Archives"
 hidden: true
 summary: This page contains an archive of all posts.
 #tags: ["", "", "", "", "", "", "", "", "", "", "", "", ]
@@ -12,4 +12,5 @@ summary: This page contains an archive of all posts.
 ## Sorted By Date:
 ____
 Coming Soon.
+
 
