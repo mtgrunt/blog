@@ -13,7 +13,15 @@ summary: This page contains an archive of all posts.
 ____
 Coming Soon.
 
-content\page\archives\Apple_Testing_Next-Generation_M3_Chips_for_Future_Macs_-_Up_to_12_CPU_Cores_18_Graphics_Cores_and_36GB_of_Memory.md
+E:\Code\blog\content\page\archives\apple_testing_next-generation_m3_chips_for_future_macs_-_up_to_12_cpu_cores_18_graphics_cores_and_36gb_of_memory
+
+https://mileswallace.com/page/archives/apple_testing_next-generation_m3_chips_for_future_macs_-_up_to_12_cpu_cores_18_graphics_cores_and_36gb_of_memory/
+
+content\page\archives\apple_testing_next-generation_m3_chips_for_future_macs_-_up_to_12_cpu_cores_18_graphics_cores_and_36gb_of_memory
+
+/page/archives/apple_testing_next-generation_m3_chips_for_future_macs_-_up_to_12_cpu_cores_18_graphics_cores_and_36gb_of_memory/
+
+
 
 02/18/2023: [Utilizing 4G LTE wireless modems on a Raspberry Pi 4]  E:\Code\blog\content\page\archives\Utilizing_4G_LTE_wireless_modems_on_a_Raspberry_Pi_4.md  
 03/03/2023: [The Ongoing Military Conflict Between Russia and Ukraine]   {{<ref "/page/archives/archives.md" >}}  
