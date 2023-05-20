@@ -1,8 +1,8 @@
 ---
-title: "Archives"
+title: "Test"
 date: 05/20/2023
 author: "Miles Wallace"
-description: "Archives"
+description: "Test"
 hidden: true
 summary: This page contains an archive of all posts.
 #tags: ["", "", "", "", "", "", "", "", "", "", "", "", ]
@@ -31,4 +31,3 @@ Coming Soon.
 05/08/2023: [Recent Escalation in Russia-Ukraine Conflict]  
 05/15/2023: [Debt Ceiling Dalliance Threatens U.S. Democracy and Global Markets as Russia and China Capitalize on Chaos]  
 05/15/2023: [Apple Testing Next-Generation M3 Chips for Future Macs]  
-
