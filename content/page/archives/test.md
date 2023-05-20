@@ -28,5 +28,5 @@ ____
 05/02/2023: https://mileswallace.com/page/archives/kevin-_mccarthy_takes_strong_stance_against_far-right_republicans_on_ukraine_aid/  
 05/08/2023: https://mileswallace.com/page/archives/geoffrey_hinton_warns_people/   
 05/08/2023: https://mileswallace.com/page/archives/recent_escalation_in_russia-ukraine_conflict/  
-05/15/2023: debt_ceiling_dalliance_threatens_u.s._democracy_and_global_markets_as_russia_and_china_capitalize_on_chaos/  
+05/15/2023: https://mileswallace.com/page/archives/debt_ceiling_dalliance_threatens_u.s._democracy_and_global_markets_as_russia_and_china_capitalize_on_chaos/  
 05/15/2023: https://mileswallace.com/page/archives/apple_testing_next-generation_m3_chips_for_future_macs_-_up_to_12_cpu_cores_18_graphics_cores_and_36gb_of_memory/   
