@@ -13,6 +13,8 @@ summary: This page contains an archive of all posts.
 ____
 Coming Soon.
 
+<a href="https://mtgrunt.github.io">Miles Wallace</a>
+
 E:\Code\blog\content\page\archives\apple_testing_next-generation_m3_chips_for_future_macs_-_up_to_12_cpu_cores_18_graphics_cores_and_36gb_of_memory
 
 05/15/2023: https://mileswallace.com/page/archives/apple_testing_next-generation_m3_chips_for_future_macs_-_up_to_12_cpu_cores_18_graphics_cores_and_36gb_of_memory/
