@@ -14,7 +14,7 @@ ____
 
 [About]({{< ref "/page/about" >}} "About")
 
-02/18/2023: [Utilizing 4G LTE wireless modems on a Raspberry Pi 4]({{< ref "page/archives/utilizing_4g_lte_wireless_modems_on_a_raspberry_pi_4/" >}} "Utilizing 4G LTE wireless modems on a Raspberry Pi 4")
+02/18/2023: [Utilizing 4G LTE wireless modems on a Raspberry Pi 4]({{< ref "/archives/utilizing_4g_lte_wireless_modems_on_a_raspberry_pi_4/" >}} "Utilizing 4G LTE wireless modems on a Raspberry Pi 4")
 
 
 02/18/2023: https://mileswallace.com/page/archives/utilizing_4g_lte_wireless_modems_on_a_raspberry_pi_4/      
