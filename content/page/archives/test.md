@@ -14,6 +14,9 @@ ____
 
 [About]({{< ref "/page/about" >}} "About")
 
+02/18/2023: [Utilizing 4G LTE wireless modems on a Raspberry Pi 4]({{< ref "page/archives/utilizing_4g_lte_wireless_modems_on_a_raspberry_pi_4/" >}} "Utilizing 4G LTE wireless modems on a Raspberry Pi 4")
+
+
 02/18/2023: https://mileswallace.com/page/archives/utilizing_4g_lte_wireless_modems_on_a_raspberry_pi_4/      
 03/03/2023: https://mileswallace.com/page/archives/the_ongoing_military_conflict_between_russia_and_ukraine_has_been_one_of_the_most_significant_geopolitical_crises/  
 03/05/2023: https://mileswallace.com/page/archives/building_a_hugo_website_with_github/   
