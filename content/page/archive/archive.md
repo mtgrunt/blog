@@ -8,7 +8,7 @@ summary: This page contains an archive of all posts.
 #tags: ["", "", "", "", "", "", "", "", "", "", "", "", ]
 #font: ""
 ---
-## Sorted By Date:
+## All posts, sorted by date:
 ____
 02.18.2023: https://mileswallace.com/page/archive/utilizing_4g_lte/  
 03.03.2023: https://mileswallace.com/page/archive/the_ongoing_military_conflict/    
