@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "KeePassXC 2.7.5"
 date: 05/21/2023
 author: "Miles Wallace"
 description: "KeePassXC 2.7.5: Empowering Password Management with Enhancements and Bug Fixes."
