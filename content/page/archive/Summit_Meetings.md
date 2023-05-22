@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "Zelensky's Diplomatic Double: Ukraine's President Attends Arab League Summit in Saudi Arabia and Joins G7 Summit in Hiroshima Amidst Geopolitical Challenges"
 date: 05/22/2023
 author: "Miles Wallace"
 description: "Zelensky's Diplomatic Double: Ukraine's President Attends Arab League Summit in Saudi Arabia and Joins G7 Summit in Hiroshima Amidst Geopolitical Challenges."

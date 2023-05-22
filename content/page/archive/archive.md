@@ -29,3 +29,4 @@ ____
 05.15.2023: https://mileswallace.com/page/archive/debt_ceiling/   
 05.15.2023: https://mileswallace.com/page/archive/apple_testing/    
 05.21.2023: https://mileswallace.com/page/archive/keepassxc_2_7_5/
+05.22.2023: https://mileswallace.com/page/archive/summit_meetings/
