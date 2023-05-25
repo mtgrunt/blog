@@ -7,7 +7,8 @@ tags: ["Oakland Athletics", "Treasurer Zach Konine", "Clark County", "Nevada", "
 #font: ""
 ---
 ## "Oakland Athletics Eye Las Vegas."
-#### _05/25/2023_  
+#### _05/25/2023_ 
+![An image](/img/1989.jpg) 
 ____
 The Oakland Athletics are making significant progress in their potential move to Las Vegas, as stated by organization Treasurer Zach Konine and Clark County officials. They have collaborated to draft a bill that will be presented to the Nevada legislature for consideration. Governor Joe Lombardo expressed his belief that Las Vegas is a sports town and should have Major League Baseball as part of its professional sports infrastructure. The negotiations and agreement signify a great opportunity for the continued development of the sports scene in southern Nevada.
 
