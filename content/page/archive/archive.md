@@ -30,3 +30,4 @@ ____
 05.15.2023: https://mileswallace.com/page/archive/apple_testing/    
 05.21.2023: https://mileswallace.com/page/archive/keepassxc_2_7_5/  
 05.22.2023: https://mileswallace.com/page/archive/summit_meetings/  
+05.25.2023: https://mileswallace.com/page/archive/oakland_athletics_las_vegas/
