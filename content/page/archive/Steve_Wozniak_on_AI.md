@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Steve Wozniak on AI Concerns"
 date: 05/26/2023
 author: "Miles Wallace"
 description: "Steve Wozniak on AI Concerns."
