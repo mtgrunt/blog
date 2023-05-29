@@ -32,4 +32,4 @@ ____
 05.22.2023: https://mileswallace.com/page/archive/summit_meetings/  
 05.25.2023: https://mileswallace.com/page/archive/oakland_athletics_las_vegas/  
 05.26.2023: https://mileswallace.com/page/archive/steve_wozniak_on_ai/  
-
+05.29.2023: https://mileswallace.com/page/archive/sudans_civil_war/  

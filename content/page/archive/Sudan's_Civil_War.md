@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "Sudan's Escalating Civil War"
 date: 05/29/2023
 author: "Miles Wallace"
 description: "Sudan's Escalating Civil War."
