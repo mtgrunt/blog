@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "A Counter-Offensive"
 date: 06/05/2023
 author: "Miles Wallace"
 description: "A Counter Offensive."
