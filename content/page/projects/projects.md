@@ -1,12 +1,12 @@
 ---
 title: "Projects"
-date: 06/07/2023
+date: 06/06/2023
 author: "Miles Wallace"
 description: "A Comprehensive Overview of Apple's New AR/VR Headset."
 tags: ["Apple", "AR/VR headset", "cameras", "sensors", "M2 Chip", "Wi-Fi connection", "4K micro OLED display", "R1 Chip", "hand gestures", "optic ID", "Bluetooth",  ]
 ---
 ## "A Comprehensive Overview of Apple's New AR/VR Headset."
-#### _06/07/2023_ 
+#### _06/06/2023_ 
 ____
 Apple's new AR/VR headset is a first-generation device that combines augmented reality and virtual reality. It features a range of cameras and sensors and is a standalone computer with its own M2 Chip and Wi-Fi connection. The headset has a 4K micro OLED display for each eye and a set of speakers above each ear. It also includes a dedicated R1 chip for real-time processing. The price starts at $3,500, and it is expected to be available for sale early next year.
 
