@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Apple AR/VR Headset"
 date: 06/07/2023
 author: "Miles Wallace"
 description: "A Comprehensive Overview of Apple's New AR/VR Headset."
