@@ -1,12 +1,12 @@
 ---
-title: "Sports"
+title: "A's New Stadium Fails"
 date: 06/07/2023
 author: "Miles Wallace"
 description: "Uncertainty Looms as Athletics' Las Vegas Stadium Deal Falters in Legislative Session."
 tags: ["Oakland Athletics", "Las Vegas", "Joe Lombardo", "Clark County", "Nevada", "Major League Baseball", "Nevada taxpayers", "Legislative", "Nevada", "bill",  ]
 #font: ""
 ---
-## "Athletics' Las Vegas Stadium Deal Falters."
+## "Uncertainty Looms as Athletics' Las Vegas Stadium Deal Falters in Legislative Session."
 #### _06/07/2023_ 
 ____
 The hopes of bringing the Oakland A's to Las Vegas suffered a setback as the stadium deal faltered during the final hours of the legislative session. Lawmakers in Nevada decided not to move forward with a bill that aimed to provide up to $380 million in public financing for the construction of a new baseball stadium in Las Vegas. While Governor Joe Lombardo expressed support for the project, it would require him to call for a special legislative session to reconsider the funding package. However, as of now, neither the governor's office nor legislative leadership have confirmed the possibility of a special session.

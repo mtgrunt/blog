@@ -36,3 +36,4 @@ ____
 06.01.2023: https://mileswallace.com/page/archive/google_passkeys/  
 06.05.2023: https://mileswallace.com/page/archive/ukraine_counter_offensive/  
 06.06.2023: https://mileswallace.com/page/archive/apple_vr_headset/    
+06.07.2023: https://mileswallace.com/page/archive/as_stadium_fails/  
