@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Apple MacBook Air"
 date: 06/12/2023
 author: "Miles Wallace"
 description: "Apple MacBook Air."
