@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "Ukraine's Counteroffensive"
 date: 06/14/2023
 author: "Miles Wallace"
 description: "Ukraine's Counteroffensive"
