@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "Blinken's China Visit"
 date: 06/19/2023
 author: "Miles Wallace"
 description: "Blinken's China Visit."
