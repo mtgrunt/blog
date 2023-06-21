@@ -6,8 +6,8 @@ description: "Communications Security Establishment."
 tags: ["Communications Security Establishment", "intelligence agency", "Russia-aligned hackers", "Canada's oil", "Ukraine", "Russia", "cyber threats",  ]
 #font: ""
 ---
-## "Uncertainty Looms as Athletics' Las Vegas Stadium Deal Falters in Legislative Session."
-#### _06/07/2023_ 
+## "Communications Security Establishment."
+#### _06/21/2023_ 
 ____
 The Communications Security Establishment (CSE), Canada's signals intelligence agency, has raised concerns about the threat posed by Russia-aligned hackers to the country's energy sector. The CSE warns that these hackers could target Canada's oil and natural gas industry, particularly due to Canada's support for Ukraine. Given Russia's history of deploying destructive cyber attacks during geopolitical crises, the CSE assesses that there is a significant possibility of a disruptive incident in the oil and gas sector. Canada, as the fourth-largest oil producer globally, heavily relies on this sector, which employs about 600,000 people and contributes 5% to the country's GDP.
 
