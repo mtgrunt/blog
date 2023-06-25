@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Escalating Cybersecurity Challenges"
 date: 06/25/2023
 author: "Miles Wallace"
 description: "Escalating Cybersecurity Challenges."
