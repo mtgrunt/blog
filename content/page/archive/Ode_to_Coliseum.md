@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "Ode to Coliseum"
 date: 06/26/2023
 author: "Miles Wallace"
 description: "Ode to the Coliseum."
@@ -19,7 +19,7 @@ On the other side, Oakland Coliseum was a trip to remember – in the 1990’s. 
 
 I question Fisher's motives and integrity as an owner, emphasizing the impact of his cost-cutting decisions on loyal employees and minor leaguers. They argue that Fisher's actions undermine trust and goodwill within the organization and the community, especially considering the team's pursuit of a new stadium. John Fisher as an anonymous and disconnected owner who prioritizes cost-cutting over the well-being of the team and its employees. They criticize his lack of transparency, perceived insincerity, and the negative impact of his decisions, leaving a lasting negative impression and causing them to question their loyalty to the team. 
 
-In a separate discussion, Brodie Brazil, a commentator, talked about the situation and suggested that the mayor's office in Oakland should take advantage of the current spotlight on the city. He proposed that they clearly articulate what a "yes" deal from Oakland would look like, emphasizing the site plan for Howard Terminal, the financial plan with infrastructure funding, a timeline for construction, and potential options for the Coliseum site. Brazil highlighted the importance of using the current attention to present Oakland's best offer and intentions to keep the team in the city. Brodie Brazil was the one who clarify the situation. 
+In a separate discussion, Brodie Brazil, a commentator, talked about the situation and suggested that the mayor's office in Oakland should take advantage of the current spotlight on the city. He proposed that they clearly articulate what a "yes" deal from Oakland would look like, emphasizing the site plan for Howard Terminal, the financial plan with infrastructure funding, a timeline for construction, and potential options for the Coliseum site. Brazil highlighted the importance of using the current attention to present Oakland's best offer and intentions to keep the team in the city. Brodie Brazil was the one who clarify the situation.  
 
 Overall, the comments from Rob Manfred and the discussion by Brodie Brazil shed light on the ongoing debate surrounding the potential relocation of the Oakland A's to Las Vegas. The commissioner acknowledged the fans' disappointment while defending his previous remarks, and Brazil suggested that the city of Oakland should seize the opportunity to outline a clear plan and make their case for keeping the team. The situation remains uncertain, but I think it’s goodbye to A’s staying in Oakland.
 
