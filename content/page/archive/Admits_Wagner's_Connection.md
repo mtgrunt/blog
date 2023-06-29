@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "Admits Wagner's Connection"
 date: 06/28/2023
 author: "Miles Wallace"
 description: "Russian State Admits Wagner's Connection."
