@@ -3,7 +3,7 @@ title: "Geopolitics"
 date: 06/28/2023
 author: "Miles Wallace"
 description: "Russian State Admits Wagner's Connection."
-tags: ["Russian government", "Dmitry Utkin", "Wagner Group", "Minerals", "Europe", "sanctions", "Sudan", "Central African Republic", "Syria", "Libya", "FSB", "GRU", "Ukraine", "Bakmut", "Volada", "Tokmak", "Novokal'ka", "Nipper River", "Antonovsky Bridge", ]
+tags: ["Russian government", "Dmitry Utkin", "Wagner Group", "Minerals", "Europe", "sanctions", "Sudan", "Central African Republic", "Syria", "Libya", "FSB", "GRU", "Ukraine", "Bakmut", "Volada", "Tokmak", "Novokal'ka", "Nipper River", "Antonovsky Bridge",  ]
 #font: ""
 ---
 ## "Admits Wagner's Connection."
