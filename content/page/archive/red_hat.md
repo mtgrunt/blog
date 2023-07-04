@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Red Hat Lockdown"
 date: 07/03/2023
 author: "Miles Wallace"
 description: "Red Hat Lockdown."
@@ -21,3 +21,5 @@ My take on it is disappointing towards Red Hat's decision to lock down access to
 Having been disappointed once before by Red Hat's decisions, my thoughts are contemplating whether they should continue supporting Fedora or completely drop support for RHEL and RHEL-like distributions in their open-source projects. They express doubts about alternative projects like Rocky or Alma Linux being able to fill the gap left by the demise of CentOS, particularly for users like themselves.
 
 I reject the suggestion of using a Red Hat Developer Subscription as a solution, pointing out that other Linux distributions like Debian, Ubuntu, or Arch don't require such subscriptions. They imply that the hassle and limitations associated with RHEL are not worth it when there are other viable options available.
+
+
