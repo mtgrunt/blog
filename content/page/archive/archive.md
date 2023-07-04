@@ -45,3 +45,4 @@ ____
 06.26.2023: https://mileswallace.com/page/archive/ode_to_coliseum/  
 06.28.2023: https://mileswallace.com/page/archive/admits_wagner's_connection/   
 07.03.2023: https://mileswallace.com/page/archive/red_hat/  
+07.04.2023: https://mileswallace.com/page/archive/pre_season_49ers/  

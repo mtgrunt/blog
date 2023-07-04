@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "49ers Pre-Season"
 date: 07/04/2023
 author: "Miles Wallace"
 description: "San Fracisco 49ers Pre-Season."
