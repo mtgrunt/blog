@@ -46,3 +46,5 @@ ____
 06.28.2023: https://mileswallace.com/page/archive/admits_wagner's_connection/   
 07.03.2023: https://mileswallace.com/page/archive/red_hat/  
 07.04.2023: https://mileswallace.com/page/archive/pre_season_49ers/  
+07.05.2023: https://mileswallace.com/page/archive/advancing_ukrainian_offensive/  
+  

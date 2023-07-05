@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "Advancing Ukrainian Offensive"
 date: 07/05/2023
 author: "Miles Wallace"
 description: "Advancing Ukrainian Offensive."
