@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Zenfone 10: Near Perfection"
 date: 07/10/2023
 author: "Miles Wallace"
 description: "Zenfone 10: Near Perfection."
