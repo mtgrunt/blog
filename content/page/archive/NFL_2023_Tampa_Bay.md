@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "NFL 2023 Tampa Bay Buccaneers"
 date: 07/13/2023
 author: "Miles Wallace"
 description: "NFL 2023 Tampa Bay Buccaneers."
@@ -49,7 +49,7 @@ The offensive line's decline was evident, and even Brady's quick passes couldn't
 
 The front seven of the defense received mixed rankings, with varying opinions on their performance. The pass rush was inconsistent, and there were concerns about the depth in the secondary. Carlton Davis, Jamel Dean, and Antoine Winfield Jr. anchored a solid secondary, but injuries and a lack of depth posed challenges. Overall, the defense struggled to generate pressure on opposing quarterbacks, with a declining pressure rate in recent years.
 
-The 2023 draft class brought some hope for the Buccaneers, particularly with the addition of Calijah Kancey, a disruptive interior defender in the first round. He is a stud.They also acquired YaYa Diaby, an undersized interior pass rusher, and Cody Mauch, who would compete for a starting job on the offensive line. Other draft picks added depth and potential for the future.
+The 2023 draft class brought some hope for the Buccaneers, particularly with the addition of Calijah Kancey, a disruptive interior defender, in the first round. He is a stud.They also acquired YaYa Diaby, an undersized interior pass rusher, and Cody Mauch, who would compete for a starting job on the offensive line. Other draft picks added depth and potential for the future.
 
 The passing game suffered a major setback in 2022, with poor rankings in yards per pass attempt and yards per completed pass. With the departure of Brady, the Buccaneers found themselves in quarterback uncertainty, bringing in Baker Mayfield and Kyle Trask to compete for the starting position. Mayfield's performance in recent years has been disappointing, while Trask has limited NFL experience. The team's passing attack led in targets and receptions but struggled in yards per catch and yards per route run. The running game was one of the worst in the league, ranking poorly in various metrics. Leonard Fournette was released, further complicating the situation.
 
