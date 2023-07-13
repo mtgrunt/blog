@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "NFL 2023 Carolina Panthers"
 date: 07/12/2023
 author: "Miles Wallace"
 description: "NFL 2023 Carolina Panthers."

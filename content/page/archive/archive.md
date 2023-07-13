@@ -48,4 +48,6 @@ ____
 07.04.2023: https://mileswallace.com/page/archive/pre_season_49ers/  
 07.05.2023: https://mileswallace.com/page/archive/advancing_ukrainian_offensive/  
 07.10.2023: https://mileswallace.com/page/archive/zenfone10_near_perfection/  
-07.12.2023: https://mileswallace.com/page/archive/nfl_2023_atlanta/    
+07.12.2023: https://mileswallace.com/page/archive/nfl_2023_atlanta/  
+07.12.2023: https://mileswallace.com/page/archive/nfl_2023_carolina/   
+
