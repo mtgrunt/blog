@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "Ukraine Waits"
 date: 07/13/2023
 author: "Miles Wallace"
 description: "Ukraine Waits."
