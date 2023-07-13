@@ -9,6 +9,39 @@ tags: ["Carolina Panthers", "NFL", "Frank Reich", "Thomas Brown", "Ejiro Evero",
 ## "NFL 2023 Carolina Panthers."
 #### _07/12/2023_ 
 ____
+Head Coach: Frank Reich (new)    
+Offensive Coordinator: Thomas Brown (new)     
+Defesive Coordinator: Ejiro Evero (new)          
+      
+Forecast 2023: 7 wins    
+2022: 7-10      
+2021: 5-12      
+2020: 5-11      
+      
+Key Players Lost:      
+D.J. Moore (WR)  
+Matt Ioannidis (IDL)  
+Pat Elflein (LG)  
+Sam Darnold (QB)  
+Damien Wilson (LB)  
+Cory Littleton (LB)     
+      
+Key Free Agents/Trades Added:      
+Adam Thielen (WR)  
+Vonn Bell (S)  
+Hayden Hurst (TE)  
+Shy Tuttle (IDL)  
+Miles Sanders (RB)  
+Andy Dalton (QB)  
+D.J. Chark (WR)  
+    
+Drafted Players:      
+QB - Bryce Young (Alabama)  
+WR - Jonathan Mingo (Ole Miss)    
+OLB - D. J. Johnson (Oregon)  
+OG - Chandler Zavala (NC State)  
+S - Jammie Robinson (Florida State)  
+  
 The Carolina Panthers have made several changes heading into the 2023 season. They have a new head coach in Frank Reich, who was previously with the Indianapolis Colts. Reich brings a wealth of experience to the team, having been involved in the NFL since 1985. The Panthers hope that his leadership will help turn the franchise in the right direction.
 
 The offensive coordinator for the Panthers is Thomas Brown, who was previously the assistant head coach for the Los Angeles Rams. The defensive coordinator is Ejiro Evero, who was previously with the Denver Broncos. Both coordinators bring fresh perspectives and new ideas to the team.

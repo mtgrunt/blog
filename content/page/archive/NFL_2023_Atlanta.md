@@ -9,6 +9,37 @@ tags: ["Atlanta Falcons", "Arthur Smith", "Ryan Nielsen", "Desmond Ridder", "Bij
 ## "NFL 2023 Atlanta Falcons."
 #### _07/12/2023_ 
 ____
+Head Coach: Arthur Smith (2 years)    
+Offensive Coordinator: Head Coach calls plays    
+Defesive Coordinator: Ryan Nielson (new)        
+    
+Forecast 2023: 9 wins    
+2022: 7-10    
+2021: 7-10    
+2020: 4-12    
+    
+Key Players Lost:    
+Casey Hayward (CB)  
+Marcus Mariota (QB)  
+Isaiah Oliver (CB)  
+Rashaan Evans (LB)  
+Abdullah Anderson (IDL)   
+    
+Key Free Agents/Trades Added:    
+Jessie Bates III (S)  
+David Onyemata (IDL)  
+Jonnu Smith (TE)  
+Kaden Elliss (LB)  
+Calais Campbell (IDL)  
+Taylor Heinicke (QB)  
+Jeff Okudah (CB)  
+  
+Drafted Players:    
+RB - Bijan Robinson (Texas)  
+OG - Matthew Bergeron (Syracuse)  
+DE - Zach Harrison (Ohio State)  
+CB - Clark Phillips III (Utah)  
+  
 The Atlanta Falcons, led by Head Coach Arthur Smith in his second year, have shown a pattern of average performance over the past three seasons. With records of 7-10 in both 2021 and 2022, and 4-12 in 2020, the team has been striving for improvement.
 
 In 2023, the Falcons' offensive coordinator position remains with Arthur Smith, who also calls the plays. The team has made a notable change by hiring Ryan Nielsen as the defensive coordinator. Nielsen previously served as the New Orleans Saints' Defensive Line Coach, bringing his expertise to enhance the Falcons' defensive strategies.
