@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "NFL 2023 Jacksonville Jaguars"
 date: 07/14/2023
 author: "Miles Wallace"
 description: "NFL 2023 Jacksonville Jaguars."
