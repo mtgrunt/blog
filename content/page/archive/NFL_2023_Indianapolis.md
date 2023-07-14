@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "NFL 2023 Indianapolis Colts"
 date: 07/14/2023
 author: "Miles Wallace"
 description: "NFL 2023 Indianapolis Colts."
@@ -65,3 +65,5 @@ In terms of the 2022 rushing performance and the 2023 outlook, the Colts' runnin
 Regarding fantasy advice, Anthony Richardson's selection suggests that he will have an earlier-than-expected role in the Colts' offense. His rushing potential alone should make him a viable fantasy starter due to his size, speed, and athleticism. However, concerns about his passing ability and the historical lack of production from skill players tied to rookie quarterbacks raise questions about the upside for Indianapolis' pass catchers. Michael Pittman and Jonathan Taylor may not see significant improvements compared to the previous season. Jelani Woods could be a lower-risk option, but the overall upside for the skill players may be limited unless one drafts Richardson himself.
 
 In summary, the 2023 Indianapolis Colts draft class has generated mixed opinions, with the success of Anthony Richardson's development being a crucial factor. The team's receiving corps and rushing game struggled in 2022, but there is optimism for improvement. Fantasy owners should consider the potential limitations tied to Richardson's passing ability when evaluating the Colts' skill players for their fantasy teams.    
+
+
