@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "NFL 2023 Tennessee Titans"
 date: 07/14/2023
 author: "Miles Wallace"
 description: "NFL 2023 Tennessee Titans."

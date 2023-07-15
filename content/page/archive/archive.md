@@ -56,3 +56,4 @@ ____
 07.14.2023: https://mileswallace.com/page/archive/nfl_2023_houston/     
 07.14.2023: https://mileswallace.com/page/archive/nfl_2023_indianapolis/  
 07.14.2023: https://mileswallace.com/page/archive/nfl_2023_jacksonville/  
+07.14.2023: https://mileswallace.com/page/archive/nfl_2023_tennessee/    
