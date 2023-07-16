@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "NFL 2023 Dallas Cowboys"
 date: 07/15/2023
 author: "Miles Wallace"
 description: "NFL 2023 Dallas Cowboys."
