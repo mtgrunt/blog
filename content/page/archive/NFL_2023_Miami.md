@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "NFL 2023 Miami Dolphins"
 date: 07/16/2023
 author: "Miles Wallace"
 description: "NFL 2023 Miami Dolphins."

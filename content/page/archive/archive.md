@@ -63,3 +63,4 @@ ____
 07.16.2023: https://mileswallace.com/page/archive/nfl_2023_philadelphia/    
 07.16.2023: https://mileswallace.com/page/archive/nfl_2023_buffalo/  
 07.16.2023: https://mileswallace.com/page/archive/nfl_2023_new_england/      
+07.16.2023: https://mileswallace.com/page/archive/nfl_2023_miami/   
