@@ -35,7 +35,7 @@ Key Free Agents/Trades Added:
 Andre Dillard (LT)  
 Arden Key (EDGE)  
 Azeez Al-Shaair (LB)  
-Sean Murphy-Bunting (CB) 
+Sean Murphy-Bunting (CB)  
 DeAndre Hopkins (WR)  
   
 Drafted Players:  
