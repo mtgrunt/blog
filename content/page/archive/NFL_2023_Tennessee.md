@@ -35,7 +35,8 @@ Key Free Agents/Trades Added:
 Andre Dillard (LT)  
 Arden Key (EDGE)  
 Azeez Al-Shaair (LB)  
-Sean Murphy-Bunting (CB)  
+Sean Murphy-Bunting (CB) 
+DeAndre Hopkins (WR)  
   
 Drafted Players:  
 Peter Skoronski (OT)  
@@ -59,6 +60,8 @@ These issues with play calling and offensive strategy have been evident to fans,
 Looking ahead to the 2023 season, the Titans' roster rankings suggest they have the fifth-worst roster in the league. This ranking, combined with potential quarterback uncertainties and the declining skill set of Ryan Tannehill, paints a challenging picture for the team. The Titans' backfield, led by Derrick Henry, remains a strong unit, but questions about Henry's declining explosiveness raise concerns. The receiving corps lacks depth and proven talent beyond Treylon Burks and Chigoziem Okonkwo.
 
 On the offensive line, the Titans had struggles at the left tackle position in 2022, allowing pressure at a league-worst rate. The team will need to address this issue and find a more reliable option to protect their quarterbacks.
+
+In the 2022 season, the Tennessee Titans heavily relied on their veteran pass catchers, Robert Woods and Austin Hooper, who led the team in receptions with 53 and 41 respectively. However, both Woods and Hooper have departed for the upcoming season, creating an opportunity for the team's young pass catchers to step up. The Titans will now look to Treylon Burks, Chigoziem Okonkwo and Kyle Philips to make significant contributions. Burks showcased his potential as a rookie, despite missing six games, by catching 33 of his 54 targets for 444 yards and a touchdown. On the other hand, Okonkwo, despite only playing 37% of offensive snaps, impressed as a rookie tight end. Among all tight ends in the NFL who ran 100 or more pass routes last season, Okonkwo ranked first in yards per route run (2.63) and second in targets per route run (26.9%). The addition of DeAndre Hopkins to the mix will undoubtedly bring a new dynamic to the team's receiving corps and it will be intriguing to see how the chemistry develops with the revamped group of pass catchers in the 2023 season.
 
 Defensively, the Titans have shown strength against the run, but their pass defense has struggled, ranking 27th in expected points added per dropback. The return of Harold Landry from injury should bolster their pass rush, but concerns remain in the secondary, particularly with players like Caleb Farley dealing with injury issues and inconsistency.
 
