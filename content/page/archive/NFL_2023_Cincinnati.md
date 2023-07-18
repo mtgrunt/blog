@@ -14,7 +14,7 @@ Head Coach: Zac Taylor (4 years)
 Offensive Coordinator: (Head Coach calls the plays)  
 Defensive Coordinator: Lou Anarumo (4 years)  
   
-Forecast 2023: 9 wins  
+Forecast 2023: 11 wins  
 2022: 7-10  
 2021: 8-9  
 2020: 11-5  
