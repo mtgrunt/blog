@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "iOS 17: Feature-packed "
 date: 07/17/2023
 author: "Miles Wallace"
 description: "iOS 17: Feature-packed."
