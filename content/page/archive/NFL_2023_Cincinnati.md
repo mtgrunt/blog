@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "NFL 2023 Cincinnati Bengals"
 date: 07/17/2023
 author: "Miles Wallace"
 description: "NFL 2023 Cincinnati Bengals."
@@ -59,7 +59,7 @@ In last year's AFC Championship game, the pressure on Burrow played a significan
 
 Joe Burrow has been exceptional for the Bengals, ranking among the top quarterbacks in various statistical categories. He has led the team to back-to-back appearances in the AFC Championship games. Going into the 2023 season, the Bengals will look to extend Burrow's contract and solidify their quarterback position. However, they lack strong backup options if Burrow were to miss any time.
 
-The Bengals boast one of the best wide receiver groups in the league with Ja'Marr Chase, Tee Higgins and Tyler Boyd. However, injuries have hindered their collective impact. When all three are on the field, the Bengals' offense is significantly more potent. Going into the 2023 season, the team will need to prioritize keeping their talented receivers healthy. Additionally, both Boyd and Higgins are entering the final year of their contracts, adding a sense of urgency to their performances.
+The Bengals boast one of the best wide receiver groups in the league with Ja'Marr Chase, Tee Higgins, and Tyler Boyd. However, injuries have hindered their collective impact. When all three are on the field, the Bengals' offense is significantly more potent. Going into the 2023 season, the team will need to prioritize keeping their talented receivers healthy. Additionally, both Boyd and Higgins are entering the final year of their contracts, adding a sense of urgency to their performances.
 
 Joe Mixon's future with the Bengals has been the subject of speculation. While there were rumors of a potential release or contract restructuring, Mixon's status remains unchanged. However, his performance in the 2022 season was subpar, with below-average yards per carry and yards after contact. The Bengals will need to evaluate whether Mixon's production justifies his contract. Behind Mixon, the team has relatively inexperienced running backs, so adding depth in the backfield might be a consideration.
 
