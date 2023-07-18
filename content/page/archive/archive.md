@@ -71,6 +71,7 @@ ____
 07.17.2023: https://mileswallace.com/page/archive/nfl_2023_minnesota/     
 07.17.2023: https://mileswallace.com/page/archive/nfl_2023_cleveland/  
 07.17.2023: https://mileswallace.com/page/archive/nfl_2023_cincinnati/  
-07.17.2023: https://mileswallace.com/page/archive/nfl_2023_ios_17/  
+07.17.2023: https://mileswallace.com/page/archive/ios_17/  
+07.17.2023: https://mileswallace.com/page/archive/california/    
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "California"
 date: 07/17/2023
 author: "Miles Wallace"
 description: "California"
