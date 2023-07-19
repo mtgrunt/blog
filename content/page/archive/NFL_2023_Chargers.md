@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "NFL 2023 Los Angeles Chargers"
 date: 07/19/2023
 author: "Miles Wallace"
 description: "NFL 2023 Los Angeles Chargers."
