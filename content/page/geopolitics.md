@@ -5,12 +5,12 @@ author: "Miles Wallace"
 description: "California"
 tags: ["migration", "California", "economic model", "Los Angeles", "San Francisco", "tax rates", "labor force", "East Asia", "Japan", "Korea", "China", "Vietnam", "Long Beach", "Hispanic", "Silicon Valley",  ]
 ---
-## "California's Economic."
+## "California Economics."
 #### _07/17/2023_  
 ____
 California's Economic Challenges and the Need for Reinvention
 
-For the past four decades, California has been a thriving economic case, but many of the factors contributing to its success were largely beyond its control. One significant factor is immigration, particularly international migration, which has helped offset negative natural population growth. Another contributing factor is the attraction of California's urban coastal experience to the millennial generation, who flocked to cities like Los Angeles and San Francisco. This influx of young people boosted tax rates and the labor force in the state.
+For the past four decades, California has been a thriving economic, but many of the factors contributing to its success were largely beyond its control. One significant factor is immigration, particularly international migration, which has helped offset negative natural population growth. Another contributing factor is the attraction of California's urban coastal experience to the millennial generation, who flocked to cities like Los Angeles and San Francisco. This influx of young people boosted tax rates and the labor force in the state.
 
 The availability of capital is another key element in California's economic model. Mature workers, specifically the baby boomer generation, provided the capital needed for consumption, investment, and technological advancements. The combination of a young workforce and ample cheap capital led to the rise of Silicon Valley and the tech sector in California.
 
