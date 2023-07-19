@@ -5,7 +5,7 @@ author: "Miles Wallace"
 description: "California"
 tags: ["migration", "California", "economic model", "Los Angeles", "San Francisco", "tax rates", "labor force", "East Asia", "Japan", "Korea", "China", "Vietnam", "Long Beach", "Hispanic", "Silicon Valley",  ]
 ---
-## "California's Economic."
+## "California Economics."
 #### _07/17/2023_  
 ____
 California's Economic Challenges and the Need for Reinvention
