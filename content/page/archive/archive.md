@@ -77,6 +77,7 @@ ____
 07.18.2023: https://mileswallace.com/page/archive/nfl_2023_baltimore/   
 07.18.2023: https://mileswallace.com/page/archive/nfl_2023_las_vegas/   
 07.18.2023: https://mileswallace.com/page/archive/nfl_2023_denver/  
-07.19.2023: https://mileswallace.com/page/archive/nfl_2023_chargers/              
+07.19.2023: https://mileswallace.com/page/archive/nfl_2023_chargers/           
+07.19.2023: https://mileswallace.com/page/archive/nfl_2023_kansas_city/                
 
 
