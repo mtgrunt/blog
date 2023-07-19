@@ -74,5 +74,6 @@ ____
 07.17.2023: https://mileswallace.com/page/archive/ios_17/  
 07.17.2023: https://mileswallace.com/page/archive/california/    
 07.18.2023: https://mileswallace.com/page/archive/nfl_2023_pittsburgh/   
+07.18.2023: https://mileswallace.com/page/archive/nfl_2023_baltimore/     
 
 
