@@ -73,6 +73,4 @@ Defensively, the Seahawks made significant moves, acquiring players like Dre'Mon
 
 Looking at the 2023 draft class, the Seahawks made strategic selections, aiming to address specific needs and add talented players. Devon Witherspoon and Jaxon Smith-Njigba are expected to contribute immediately as starters, with Witherspoon potentially adjusting to Seattle's coverage scheme. Zach Charbonnet's addition might indicate a change in the team's preference for its running game. The Seahawks also targeted players to bolster their defensive line and secondary, providing depth and competition in various positions.
 
-Defensively, the Seahawks made significant signings, addressing some areas of concern. However, they are projected to face a tougher schedule of offenses in 2023, which could test their improved defense.
-
 Overall, the Seahawks had a memorable 2022 season, driven by Geno Smith's comeback performance. However, the challenges ahead in 2023, including tougher competition, adjustments from opposing teams and uncertainties in their running game and quarterback play, make it a crucial season for the team's success.  
