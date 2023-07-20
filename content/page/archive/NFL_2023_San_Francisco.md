@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "NFL 2023 San Francisco 49ers"
 date: 07/20/2023
 author: "Miles Wallace"
 description: "NFL 2023 San Francisco 49ers."
