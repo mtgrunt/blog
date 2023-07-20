@@ -80,7 +80,9 @@ ____
 07.19.2023: https://mileswallace.com/page/archive/nfl_2023_chargers/           
 07.19.2023: https://mileswallace.com/page/archive/nfl_2023_kansas_city/    
 07.19.2023: https://mileswallace.com/page/archive/nfl_2023_arizona/    
-07.19.2023: https://mileswallace.com/page/archive/nfl_2023_seattle/        
+07.19.2023: https://mileswallace.com/page/archive/nfl_2023_seattle/    
+07.19.2023: https://mileswallace.com/page/archive/nfl_2023_rams/        
+
 
 
 
