@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "No Grain Deal"
 date: 07/24/2023
 author: "Miles Wallace"
 description: "No Grain Deal."
