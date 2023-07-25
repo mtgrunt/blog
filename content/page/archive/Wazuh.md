@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Wazuh"
 date: 07/25/2023
 author: "Miles Wallace"
 description: "Wazuh: Cybersecurity Tool."
@@ -31,4 +31,7 @@ https://wazuh.com/install/
 https://documentation.wazuh.com/current/getting-started/index.html    
 https://documentation.wazuh.com/current/installation-guide/index.html    
 https://documentation.wazuh.com/current/deployment-options/index.html    
+
+
+
 
