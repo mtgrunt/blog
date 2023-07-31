@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Tech"
 date: 07/25/2023
 author: "Miles Wallace"
 description: "Wazuh: Cybersecurity Tool."
