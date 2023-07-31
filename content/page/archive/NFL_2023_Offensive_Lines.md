@@ -3,13 +3,14 @@ title: "NFL 2023 Offensive Lines"
 date: 07/30/2023
 author: "Miles Wallace"
 description: "NFL 2023 Offensive Lines."
-tags: ["",  ]
+tags: ["Eagles", "Ravens", "Chiefs", "Lions", "Browns", "Packers", "Cowboys", "Falcons", "Broncos", "Vikings", "Chargers", "Panthers", "Bengals", "Steelers", "Saints", "Bears", "Raiders", "Colts", "Texans", "Dolphins", "Jets", "Patriots", "49ers", "Bills", "Seahawks", "Jaguars", "Giants", "Cardinals", "Buccaneers", "Titans", "Rams",  ]   
+32.	Rams "  ]
 #font: ""
 ---
 ## "NFL 2023 Offensive Lines."
 #### _07/30/2023_ 
 ____
-2023 NFL Offensive Lines  
+2023 NFL Offensive Lines:  
 1. Eagles  
 2. Ravens  
 3. Chiefs  
