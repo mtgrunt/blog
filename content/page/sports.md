@@ -3,8 +3,7 @@ title: "Sports"
 date: 07/30/2023
 author: "Miles Wallace"
 description: "NFL 2023 Offensive Lines."
-tags: ["Eagles", "Ravens", "Chiefs", "Lions", "Browns", "Packers", "Cowboys", "Falcons", "Broncos", "Vikings", "Chargers", "Panthers", "Bengals", "Steelers", "Saints", "Bears", "Raiders", "Colts", "Texans", "Dolphins", "Jets", "Patriots", "49ers", "Bills", "Seahawks", "Jaguars", "Giants", "Cardinals", "Buccaneers", "Titans", "Rams",  ]   
-32.	Rams "  ]
+tags: ["Eagles", "Ravens", "Chiefs", "Lions", "Browns", "Packers", "Cowboys", "Falcons", "Broncos", "Vikings", "Chargers", "Panthers", "Bengals", "Steelers", "Saints", "Bears", "Raiders", "Colts", "Texans", "Dolphins", "Jets", "Patriots", "49ers", "Bills", "Seahawks", "Jaguars", "Giants", "Cardinals", "Buccaneers", "Titans", "Rams",  ]
 #font: ""
 ---
 ## "NFL 2023 Offensive Lines."
