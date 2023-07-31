@@ -102,14 +102,14 @@ pygmentsCodefencesGuessSyntax = true
     body_classes = "open-sans-v15-latin-regular"
 
 [[menu.main]]
-    name = "Sports"
-    url = "page/sports/"
+    name = "Tech"
+    url = "page/tech/tech/"
     weight = 3
     body_classes = "open-sans-v15-latin-regular"
 
 [[menu.main]]
-    name = "Tech"
-    url = "page/tech/tech/"
+    name = "Sports"
+    url = "page/sports/"
     weight = 4
     body_classes = "open-sans-v15-latin-regular"
 
