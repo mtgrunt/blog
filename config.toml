@@ -103,7 +103,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     name = "Sports"
-    url = "page/sports/git add .
+    url = "page/sports/"
     weight = 3
     body_classes = "open-sans-v15-latin-regular"
 
