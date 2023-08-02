@@ -21,3 +21,9 @@ Furthermore, "Rust By Example," which follows the same chapter ordering as "The 
 It was engaged in code katas using the "Rustlings" repository. Code katas involve practicing programming by fixing small, failing tests. This interactive and hands-on approach to learning has likely contributed to write Rust code more effectively.
 
 By combining these resources with the powerful note-taking features of Obsidian.md, enables them to create engaging talks on the "No Boilerplate" channel. Their talks are likely well-structured, informative and supported by a strong foundation in Rust programming.
+
+Resources:  
+https://obsidian.md  
+https://github.com/MSzturc/obsidian-advanced-slides  
+https://www.reaper.fm/  
+https://doc.rust-lang.org/stable/book/  
