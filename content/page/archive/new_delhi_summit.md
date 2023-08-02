@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "New Delhi G20 Summit"
 date: 08/01/2023
 author: "Miles Wallace"
 description: "New Delhi G20 Summit"
