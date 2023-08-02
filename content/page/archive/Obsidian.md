@@ -1,5 +1,5 @@
 ---
-title: "Tech"
+title: "Obsidian"
 date: 08/01/2023
 author: "Miles Wallace"
 description: "Obsidian.md"

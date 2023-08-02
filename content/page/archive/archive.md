@@ -84,9 +84,10 @@ ____
 07.19.2023: https://mileswallace.com/page/archive/nfl_2023_rams/     
 07.20.2023: https://mileswallace.com/page/archive/nfl_2023_san_francisco/  
 07.24.2023: https://mileswallace.com/page/archive/no_grain_deal/   
-07.25.2023: https://mileswallace.com/page/archive/wazuh/  
+07.25.2023: https://mileswallace.com/page/archive/wazuh/    
 07.30.2023: https://mileswallace.com/page/archive/nfl_2023_offensive_lines/   
 08.01.2023: https://mileswallace.com/page/archive/nfl_2023_defensive_lines/      
+08.01.2023: https://mileswallace.com/page/archive/obsidian/  
 
 
 
