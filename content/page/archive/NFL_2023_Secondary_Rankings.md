@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "NFL 2023 Secondary Rankings"
 date: 08/03/2023
 author: "Miles Wallace"
 description: "NFL 2023 Secondary Rankings."
