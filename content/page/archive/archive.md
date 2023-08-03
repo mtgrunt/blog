@@ -88,7 +88,8 @@ ____
 07.30.2023: https://mileswallace.com/page/archive/nfl_2023_offensive_lines/   
 08.01.2023: https://mileswallace.com/page/archive/nfl_2023_defensive_lines/      
 08.01.2023: https://mileswallace.com/page/archive/obsidian/    
-08.01.2023: https://mileswallace.com/page/archive/new_delhi_summit/     
+08.01.2023: https://mileswallace.com/page/archive/new_delhi_summit/   
+08.02.2023: https://mileswallace.com/page/archive/nfl_2023_linebacker_cores/       
 
 
 

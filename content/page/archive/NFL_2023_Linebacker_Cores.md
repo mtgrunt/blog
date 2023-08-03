@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "NFL 2023 Linebacker Cores"
 date: 08/02/2023
 author: "Miles Wallace"
 description: "NFL 2023 Linebacker Cores."
@@ -42,3 +42,4 @@ ____
 30. Raiders  
 31. Texans  
 32. Rams  
+
