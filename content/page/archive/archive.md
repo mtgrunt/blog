@@ -91,7 +91,7 @@ ____
 08.01.2023: https://mileswallace.com/page/archive/new_delhi_summit/   
 08.02.2023: https://mileswallace.com/page/archive/nfl_2023_linebacker_cores/  
 08.03.2023: https://mileswallace.com/page/archive/nfl_2023_secondary_rankings/         
-
+08.07.2023: https://mileswallace.com/page/archive/five_laptops_2023/  
 
 
 
