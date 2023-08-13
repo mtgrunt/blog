@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "Chinese Economic Conundrum"
 date: 08/13/2023
 author: "Miles Wallace"
 description: "Chinese Economic Conundrum"
