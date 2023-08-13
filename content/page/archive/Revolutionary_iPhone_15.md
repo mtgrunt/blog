@@ -1,5 +1,5 @@
 ---
-title: "Tech"
+title: "Revolutionary iPhone 15"
 date: 08/13/2023
 author: "Miles Wallace"
 description: "Revolutionary iPhone 15."
