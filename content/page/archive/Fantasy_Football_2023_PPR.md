@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "Fantasy Football 2023 PPR"
 date: 08/13/2023
 author: "Miles Wallace"
 description: "Fantasy Football 2023 PPR"
