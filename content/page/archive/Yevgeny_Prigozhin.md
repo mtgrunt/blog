@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: Yevgeny Prigozhin
 date: 08/23/2023
 author: "Miles Wallace"
 description: "Yevgeny Prigozhin."

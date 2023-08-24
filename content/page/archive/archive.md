@@ -95,7 +95,7 @@ ____
 08.13.2023: https://mileswallace.com/page/archive/chinese_economic_conundrum/   
 08.13.2023: https://mileswallace.com/page/archive/revolutionary_iphone_15/  
 08.13.2023: https://mileswallace.com/page/archive/fantasy_football_2023_ppr/  
- 
+08.23.2023: https://mileswallace.com/page/archive/Yevgeny_Prigozhin/   
 
 
 
