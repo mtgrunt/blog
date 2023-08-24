@@ -1,5 +1,5 @@
 ---
-title: "Tech"
+title: "Distrobox!"
 date: 08/24/2023
 author: "Miles Wallace"
 description: "Distrobox!"
