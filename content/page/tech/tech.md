@@ -21,3 +21,7 @@ Beyond GUI applications, DistroBox serves developers well. Whether you need to t
 DistroBox also enables innovative possibilities, like running a full desktop environment from a different distribution through a container. This opens up the intriguing prospect of booting into a completely different operating system while maintaining integration with your primary one.
 
 In conclusion, DistroBox is a powerful tool for Linux enthusiasts, developers, and those who crave flexibility in their software ecosystem. It blurs the lines between distributions, making it a must-try for anyone seeking to simplify their software management, experiment with new environments, or solve compatibility challenges. If you're tired of distro hopping but still want to enjoy the benefits of different Linux worlds, DistroBox might just be the solution you've been waiting for.
+
+Here's the link for distrobox:  
+https://distrobox.privatedns.org/  
+
