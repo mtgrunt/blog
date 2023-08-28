@@ -1,5 +1,5 @@
 ---
-title: "Tech"
+title: "Principles of Git"
 date: 08/27/2023
 author: "Miles Wallace"
 description: "Principles of Git."
@@ -28,3 +28,6 @@ https://git-scm.com/downloads
 https://git-scm.com/docs  
 https://en.wikipedia.org/wiki/Git  
 https://en.wikipedia.org/wiki/GitHub  
+
+
+
