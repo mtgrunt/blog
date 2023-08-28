@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "Space Flights"
 date: 08/27/2023
 author: "Miles Wallace"
 description: "Space Flights"
