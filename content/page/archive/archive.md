@@ -100,4 +100,5 @@ ____
 08.27.2023: https://mileswallace.com/page/archive/space_flights/  
 08.27.2023: https://mileswallace.com/page/archive/git/  
 08.27.2023: https://mileswallace.com/page/archive/fantasy_football_2023_ppr/  
+08.28.2023: https://mileswallace.com/page/archive/fantasy_football_2023_std/    
 
