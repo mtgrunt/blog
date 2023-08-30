@@ -102,4 +102,4 @@ ____
 08.27.2023: https://mileswallace.com/page/archive/fantasy_football_2023_ppr/  
 08.28.2023: https://mileswallace.com/page/archive/fantasy_football_2023_std/      
 08.29.2023: https://mileswallace.com/page/archive/afc_win_predictions_2023/    
-08.29.2023: https://mileswallace.com/page/archive/nfc_win_predictions_2023  
+08.29.2023: https://mileswallace.com/page/archive/nfc_win_predictions_2023/    
