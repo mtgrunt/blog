@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "AFC Win Predictions 2023"
 date: 08/29/2023
 author: "Miles Wallace"
 description: "AFC Win Predictions 2023."
