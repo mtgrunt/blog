@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "Putin's Power Play"
 date: 09/03/2023
 author: "Miles Wallace"
 description: "Putin's Power Play."
