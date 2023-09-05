@@ -1,5 +1,5 @@
 ---
-title: "Tech"
+title: "Advanced Git commands"
 date: 09/04/2023
 author: "Miles Wallace"
 description: "Advanced Git commands."
