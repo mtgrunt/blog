@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "NFL 2023 Week 2"
 date: 09/11/2023
 author: "Miles Wallace"
 description: "NFL 2023 Week 2 Waiver Wire."
