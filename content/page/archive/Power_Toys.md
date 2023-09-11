@@ -1,5 +1,5 @@
 ---
-title: "Tech"
+title: "Microsoft PowerToys"
 date: 09/10/2023
 author: "Miles Wallace"
 description: "Microsoft PowerToys."
