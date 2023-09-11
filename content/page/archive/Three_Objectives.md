@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "Three Objectives"
 date: 09/10/2023
 author: "Miles Wallace"
 description: "Three Objectives"

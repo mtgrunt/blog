@@ -105,3 +105,4 @@ ____
 08.29.2023: https://mileswallace.com/page/archive/nfc_win_predictions_2023/    
 09.03.2023: https://mileswallace.com/page/archive/putins_power_play/      
 09.04.2023: https://mileswallace.com/page/archive/advanced_git/  
+09.10.2023: https://mileswallace.com/page/archive/three_objectives/  
