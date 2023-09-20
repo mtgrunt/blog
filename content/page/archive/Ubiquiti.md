@@ -1,5 +1,5 @@
 ---
-title: "Tech"
+title: "Ubiquiti"
 date: 09/19/2023
 author: "Miles Wallace"
 description: "Ubiquiti: A Comprehensive Evaluation."

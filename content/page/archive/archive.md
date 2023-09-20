@@ -108,3 +108,4 @@ ____
 09.10.2023: https://mileswallace.com/page/archive/three_objectives/    
 09.10.2023: https://mileswallace.com/page/archive/power_toys/    
 09.11.2023: https://mileswallace.com/page/archive/nfl_2023_week_2/  
+09.19.2023: https://mileswallace.com/page/archive/ubiquiti/    
