@@ -35,25 +35,25 @@ To set up an HTML and CSS with JavaScript code that highlights the active page l
 
 2. Create a CSS file (e.g., styles.css) to style your navigation and highlight the active link:  
 
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
 
-nav li {
-    display: inline;
-    margin-right: 20px;
-}
+        nav li {
+            display: inline;
+            margin-right: 20px;
+        }
 
-nav a {
-    text-decoration: none;
-    color: #333;
-}
+        nav a {
+            text-decoration: none;
+            color: #333;
+        }
 
-nav a.active {
-    font-weight: bold;
-    color: #007bff; /* Change the color as desired */
-}
+        nav a.active {
+            font-weight: bold;
+            color: #007bff; /* Change the color as desired */
+        }
 
 3. Create a JavaScript file (e.g., script.js) to handle the highlighting of the active link:  
 
