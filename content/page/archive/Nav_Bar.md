@@ -1,5 +1,5 @@
 ---
-title: "Tech"
+title: "Nav Bar"
 date: 09/27/2023
 author: "Miles Wallace"
 description: "Nav Bar", "HTML", "CSS", "Javascript", ]
@@ -71,3 +71,5 @@ The HTML file defines a simple navigation menu with anchor links.
 The CSS file styles the navigation links and adds a class (active) to style the active link differently.
 The JavaScript file checks each link's href attribute against the activePage variable (which represents the current page's pathname). If they match, it adds the active class to the link, which applies the defined styling.
 Make sure to place all three files (index.html, styles.css, and script.js) in the same directory for this setup to work properly.
+
+
