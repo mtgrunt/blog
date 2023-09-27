@@ -57,22 +57,22 @@ To set up an HTML and CSS with JavaScript code that highlights the active page l
 
 3. Create a JavaScript file (e.g., script.js) to handle the highlighting of the active link:  
 
-// script.js
+        // script.js
 
-const activePage = window.location.pathname;
-const navLinks = document.querySelectorAll('nav a');
+        const activePage = window.location.pathname;
+        const navLinks = document.querySelectorAll('nav a');
 
-navLinks.forEach(link => {
-    if (link.getAttribute('href') === activePage) {
-        link.classList.add('active');
-    }
-});  
+        navLinks.forEach(link => {
+            if (link.getAttribute('href') === activePage) {
+                link.classList.add('active');
+            }
+        });  
 
 In this setup:  
 
 The HTML file defines a simple navigation menu with anchor links.
 The CSS file styles the navigation links and adds a class (active) to style the active link differently.
 The JavaScript file checks each link's href attribute against the activePage variable (which represents the current page's pathname). If they match, it adds the active class to the link, which applies the defined styling.
-Make sure to place all three files (index.html, styles.css, and script.js) in the same directory for this setup to work properly.
+Make sure to place all three files (index.html, styles.css and script.js) in the same directory for this setup to work properly.
 
 
