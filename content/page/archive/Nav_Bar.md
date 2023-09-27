@@ -11,6 +11,7 @@ I'll show you step by step a guide to a Navbar setup for HTML, CSS and Javascrip
 To set up an HTML and CSS with JavaScript code that highlights the active page link in your navigation based on the activePage variable and the navLinks query selector, you can follow these steps:  
 
 1. Create an HTML file (e.g., index.html) for your web page:
+<!--
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,6 +32,7 @@ To set up an HTML and CSS with JavaScript code that highlights the active page l
     <script src="script.js"></script>
 </body>
 </html>
+-->
 
 2. Create a CSS file (e.g., styles.css) to style your navigation and highlight the active link:  
 
