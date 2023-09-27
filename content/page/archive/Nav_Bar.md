@@ -2,7 +2,7 @@
 title: "Nav Bar"
 date: 09/27/2023
 author: "Miles Wallace"
-description: "Nav Bar", "HTML", "CSS", "Javascript", ]
+description: ["Nav Bar", "HTML", "CSS", "Javascript",  ]
 ---
 ## "Nav Bar HTML, CSS and Javascript"
 #### _09/27/2023_ 
