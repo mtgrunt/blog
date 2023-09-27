@@ -56,6 +56,8 @@ nav a.active {
 
 3. Create a JavaScript file (e.g., script.js) to handle the highlighting of the active link:  
 
+// script.js
+
 const activePage = window.location.pathname;
 const navLinks = document.querySelectorAll('nav a');
 
