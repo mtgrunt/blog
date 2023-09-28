@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "2024 Finnish presidential election"
 date: 09/27/2023
 author: "Miles Wallace"
 description: "2024 Finnish presidential election."
