@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "San Francisco 49ers: Watch Out!"
 date: 09/29/2023
 author: "Miles Wallace"
 description: "San Francisco 49ers: Watch Out!"
