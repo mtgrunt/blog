@@ -111,4 +111,5 @@ ____
 09.19.2023: https://mileswallace.com/page/archive/ubiquiti/    
 09.27.2023: https://mileswallace.com/page/archive/nav_bar/      
 09.27.2023: https://mileswallace.com/page/archive/finnish_presidential_election/   
-09.29.2023: https://mileswallace.com/page/archive/san_francisco_49ers_week_4/    
+09.29.2023: https://mileswallace.com/page/archive/san_francisco_49ers_week_4/  
+10.05.2023: https://mileswallace.com/page/archive/nfl_teams_week_5/      

@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "NFL 2023 Week 5"
 date: 10/05/2023
 author: "Miles Wallace"
 description: "NFL 2023 Week 5."
@@ -28,8 +28,8 @@ Cowboys	@ 49ers
 Monday, 10/09:  
 Packers	@ Raiders  	
 Bye Teams: Cleveland, Los Angeles Chargers, Seattle and Tampa Bay  
-  
-Four teams to watch:    
+     
+Four teams to watch:   
   
 The Bills have been dominant. I think Buffalo's defense is most imposing; this team lies in their formidable defense, which has proven to be the most striking in the league. Their depth and skill on the defensive side of the ball are unparalleled and the return of Von Miller has only added to their strength. Bills offense is on fire, the Bills' offense has been nothing short of electric. The offensive line has been incredibly productive where it counts the most, protecting their star quarterback and opening up lanes for James Cook and others. Perhaps the most telling statistic of their offensive prowess is the fact that their percentage of drives ending in a punt or turnover stands at a mere 33%, making them the third-lowest in the NFL. All signs point to a promising season for the Buffalo Bills AND the Bills mafia.
   
