@@ -1,5 +1,5 @@
 ---
-title: "Tech"
+title: "iOS 17 Features"
 date: 10/06/2023
 author: "Miles Wallace"
 description: "iOS 17 Features."
@@ -27,3 +27,5 @@ In iOS 17, while it may not be a major overhaul, there are some noteworthy addit
 14. Standby Mode: Transform your iPhone into a stylish alarm clock with various customization options.  
 15. Two-Factor Verification: Automatically delete two-factor verification texts and emails for enhanced security.  
 16. Voice Activation: Activate Siri without saying "Hey Siri."  
+
+
