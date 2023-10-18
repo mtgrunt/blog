@@ -1,5 +1,5 @@
 ---
-title: "Tech"
+title: "NAS"
 date: 10/17/2023
 author: "Miles Wallace"
 description: ["NAS", "TrueNAS", "Unraid", "Synology", "QNAP",  ]
