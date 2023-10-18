@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "NFL 2023 Week 7"
 date: 10/17/2023
 author: "Miles Wallace"
 description: "NFL 2023 Week 7."

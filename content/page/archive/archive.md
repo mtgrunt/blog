@@ -115,4 +115,5 @@ ____
 10.05.2023: https://mileswallace.com/page/archive/nfl_teams_week_5/      
 10.06.2023: https://mileswallace.com/page/archive/ios_17_features/     
 10.17.2023: https://mileswallace.com/page/archive/nas/  
-10.17.2023: https://mileswallace.com/page/archive/polish_presidential_election/   
+10.17.2023: https://mileswallace.com/page/archive/polish_presidential_election/    
+10.17.2023: https://mileswallace.com/page/archive/nfl_teams_week_7/          
