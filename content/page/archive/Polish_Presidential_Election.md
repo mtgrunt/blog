@@ -1,5 +1,5 @@
 ---
-title: "Geopolitics"
+title: "2024 Polish presidential election"
 date: 10/17/2023
 author: "Miles Wallace"
 description: "2024 Polish presidential election."
