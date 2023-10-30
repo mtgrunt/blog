@@ -1,5 +1,5 @@
 ---
-title: "Tech"
+title: "Raspberry Pi 5"
 date: 10/30/2023
 author: "Miles Wallace"
 description: "Raspberry Pi 5."
@@ -19,4 +19,3 @@ The Raspberry Pi 5 further expands its connectivity options with a single-lane P
 Additionally, the Raspberry Pi 5 boasts dual 4-lane MIPI CSI/DSI ports, which provide increased bandwidth for connecting cameras and displays. This is particularly beneficial for applications like computer vision and digital signage where high-quality imaging and crisp displays are crucial. Furthermore, the dual 4Kp60 HDMI display output with HDR support ensures a visually stunning output for your projects.
 
 The Raspberry Pi 5, with its new silicon designed for enhanced I/O performance, is a true "everything computer." Whether you're a hobbyist, a student, a tinkerer, or a professional, the Raspberry Pi 5 offers a powerful and optimized computing platform that can be tailored to suit a wide range of projects and applications. With this latest iteration, the Raspberry Pi Foundation continues to push the boundaries of what's possible with a single-board computer.
-  
