@@ -9,7 +9,7 @@ tags: ["NFL", "Cowboys", "Chiefs", "Jaguars", "Dolphins",  ]
 ## "NFL 2023 Week 9."
 #### _10/30/2023_ 
 ____
-NFL WEEk 9  
+NFL WEEK 9  
 Thursday, November 02:  
 Tennessee Titans @ Pittsburgh Steelers  
 Sunday, November 05:  
