@@ -95,11 +95,11 @@ pygmentsCodefencesGuessSyntax = true
     weight = 1
     body_classes = "open-sans-v15-latin-regular"
 
-[[menu.main]]
-    name = "Geopolitics"
-    url = "page/geopolitics/"
-    weight = 2
-    body_classes = "open-sans-v15-latin-regular"
+#[[menu.main]]
+#    name = "Geopolitics"
+#    url = ""
+#    weight = 2
+#    body_classes = "open-sans-v15-latin-regular"
 
 [[menu.main]]
     name = "Sports"
