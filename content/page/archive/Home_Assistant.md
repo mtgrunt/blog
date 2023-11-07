@@ -1,5 +1,5 @@
 ---
-title: "Tech"
+title: "Home Assistant Setup"
 date: 11/07/2023
 author: "Miles Wallace"
 description: "Home Assistant Setup."

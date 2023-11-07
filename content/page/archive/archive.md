@@ -118,4 +118,5 @@ ____
 10.17.2023: https://mileswallace.com/page/archive/polish_presidential_election/    
 10.17.2023: https://mileswallace.com/page/archive/nfl_teams_week_7/          
 10.30.2023: https://mileswallace.com/page/archive/nfl_teams_week_9/  
-10.30.2023: https://mileswallace.com/page/archive/raspberry_pi_5/       
+10.30.2023: https://mileswallace.com/page/archive/raspberry_pi_5/      
+11.07.2023: https://mileswallace.com/page/archive/home_assistant/         
