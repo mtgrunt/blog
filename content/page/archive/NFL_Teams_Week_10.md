@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "NFL 2023 Week 10"
 date: 11/07/2023
 author: "Miles Wallace"
 description: "NFL 2023 Week 10."
@@ -39,3 +39,6 @@ In Week 10, the Detroit Lions will face the Los Angeles Chargers at SoFi Stadium
 
 Seahawks (5-3)
 In the upcoming Week 10 matchup at Lumen Field, the Seattle Seahawks are favored by 6 points as they prepare to face the Washington Commanders. Despite the Commanders leading the series historically with a 13-6 record against the Seahawks, the current circumstances may be in favor of Seattle. The Commanders' Curtis Samuel is listed as questionable, while the Seahawks have no reported starting injuries. Seattle's quarterback, Geno Smith, is coming off a challenging performance against the Ravens, where he struggled to complete passes and had difficulties against the formidable Baltimore defense. Smith must bounce-back performance to secure a win at home. This matchup presents an opportunity for the Seahawks to regain momentum and make a statement against the Commanders.
+
+
+  
