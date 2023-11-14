@@ -1,5 +1,5 @@
 ---
-title: "Tech"
+title: "M3 Max MacBook Pro"
 date: 11/14/2023
 author: "Miles Wallace"
 description: "M3 Max MacBook Pro"
