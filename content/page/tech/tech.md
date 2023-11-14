@@ -3,7 +3,7 @@ title: "Tech"
 date: 11/14/2023
 author: "Miles Wallace"
 description: "M3 Max MacBook Pro"
-tags: ["Apple", "",  ]
+tags: ["Apple", "M3", "M3 Max MacBook Pro", "laptop", "HDMI", "face unlock", "40-core GPU",  ]
 #font: ""
 ---
 ## "M3 Max MacBook Pro."
