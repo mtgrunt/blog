@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "NFL 2023 Week 11"
 date: 11/14/2023
 author: "Miles Wallace"
 description: "NFL 2023 Week 11."
@@ -22,7 +22,7 @@ Arizona Cardinals (+5.5/48) at Houston Texans
 Tennessee Titans (+6.5/39.5) at Jacksonville Jaguars  
 Las Vegas Raiders (+10/46.5) at Miami Dolphins  
 New York Giants (+9.5/37) at Washington Commanders  
-Tampa Bay Buccaneers (+10.5/41.5) at San Francisco 49ers   
+Tampa Bay Buccaneers (+10.5/41.5) at San Francisco 49ers  
 New York Jets (+6.5/40) at Buffalo Bills  
 Seattle Seahawks (-2.5/46.5) at Los Angeles Rams  
 Minnesota Vikings (+1.5/43) at Denver Broncos  

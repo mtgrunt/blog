@@ -122,3 +122,5 @@ ____
 11.07.2023: https://mileswallace.com/page/archive/home_assistant/         
 11.07.2023: https://mileswallace.com/page/archive/nfl_teams_week_10/   
 11.14.2023: https://mileswallace.com/page/archive/m3_macbook_pro/  
+11.14.2023: https://mileswallace.com/page/archive/nfl_teams_week_11/     
+
