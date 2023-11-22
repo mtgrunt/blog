@@ -2,10 +2,10 @@
 title: "Tech"
 date: 11/22/2023
 author: "Miles Wallace"
-description: "Best CPU's 2023"
-tags: ["CPU", "AMD", "Intel", "Ryzen", "2023", ]
+description: "Best CPUs 2023"
+tags: ["CPU", "AMD", "Intel", "Ryzen", "2023",  ]
 ---
-## "Best CPU's in 2023."
+## "Best CPUs in 2023."
 #### _11/22/2023_  
 ____
 AMD Ryzen 7 7800X3D, Intel Core i5-14600K and AMD Threadripper 7980X represent diverse options catering to various user needs. AMD Ryzen 7 7800X3D is likely to offer a balanced blend of single-core and multi-core performance, ideal for gaming and productivity tasks. The Intel Core i5-14600K is expected to deliver strong single-core performance, making it well-suited for gaming. On the other hand, the AMD Threadripper 7980X is a high-end desktop processor designed for professionals and enthusiasts. Each CPU has its strengths and the choice among them depends on individual preferences.   
