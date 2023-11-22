@@ -1,5 +1,5 @@
 ---
-title: "Tech"
+title: "Best CPU's 2023"
 date: 11/22/2023
 author: "Miles Wallace"
 description: "Best CPU's 2023"
@@ -15,15 +15,15 @@ AMD Ryzen 7 7800X3D: Processor provides dependable and fast execution of tasks w
 Intel i5-14600K: 14 cores (6 P-cores + 8 E-cores) and 20 threads. Integrated Intel UHD Graphics 770 included. Performance hybrid architecture integrates two core microarchitectures, prioritizing and distributing workloads to optimize performance. Up to 5.3 GHz unlocked and 24MB cache.      
   
 AMD Threadripper 7980X: 64 Cores and 48 Processing Threads for Incredible, Professional Processing Power. Incredible 5.1 GHz Max Boost Frequency, with a colossal 320MB cache. Unlocked, with automatic overclocking feature. CPU Speed	5.1 GHz.  
-    
+      
 When selecting a CPU, consider factors such as:  
    
 Performance: Look for CPUs with strong single-core and multi-core performance (gaming, content creation, productivity, etc).  
    
 Price-to-performance ratio: Consider the value offered by the CPU in relation to its price.   
-    
+   
 Compatibility: Ensure that the CPU is compatible with your motherboard and other system components.   
-     
+   
 Future-proofing: Consider whether the CPU is likely to meet your needs for the foreseeable future, especially if you plan to use your system for demanding tasks.   
    
 User reviews and benchmarks: Check reviews, benchmarks and user feedback to get an idea of the CPU's real-world performance.   
