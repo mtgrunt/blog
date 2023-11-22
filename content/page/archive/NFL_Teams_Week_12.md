@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "NFL 2023 Week 12"
 date: 11/21/2023
 author: "Miles Wallace"
 description: "NFL 2023 Week 12."
