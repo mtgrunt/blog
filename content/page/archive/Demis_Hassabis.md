@@ -1,5 +1,5 @@
 ---
-title: "Tech"
+title: "Demis Hassabis"
 date: 11/23/2023
 author: "Miles Wallace"
 description: "Demi Hassabis: AI Visionary."
