@@ -3,13 +3,13 @@ title: "NFL 2023 Week 13"
 date: 11/28/2023
 author: "Miles Wallace"
 description: "NFL 2023 Week 13."
-tags: ["NFL", "",  ]
+tags: ["NFL",  ]
 #font: ""
 ---
 ## "NFL 2023 Week 13."
 #### _11/28/2023_ 
 ____
-Point spreads and over/under totals for the NFL games in Week 12, 2023.  
+Point spreads and over/under totals for the NFL games in Week 13, 2023.  
 Break down the matchups.  
 (PST/PDT Time)  
   
