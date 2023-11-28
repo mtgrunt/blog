@@ -126,4 +126,4 @@ ____
 11.21.2023: https://mileswallace.com/page/archive/nfl_teams_week_12/       
 11.22.2023: https://mileswallace.com/page/archive/best_cpu_2023/  
 11.23.2023: https://mileswallace.com/page/archive/demis_hassabis/    
-
+11.28.2023: https://mileswallace.com/page/archive/nfl_teams_week_13/     

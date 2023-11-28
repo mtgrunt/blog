@@ -1,5 +1,5 @@
 ---
-title: "Sports"
+title: "NFL 2023 Week 13"
 date: 11/28/2023
 author: "Miles Wallace"
 description: "NFL 2023 Week 13."
@@ -33,4 +33,3 @@ Monday, Dec. 04:
 Bengals @ Jaguars, 5:15 PM (Jags -8/37.5)  
   
 Bye: Bears, Bills, Giants, Raiders, Ravens and Vikings   
- 
