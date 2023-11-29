@@ -1,5 +1,5 @@
 ---
-title: "Tech"
+title: "Ubiquiti"
 date: 11/29/2023
 author: "Miles Wallace"
 description: "Ubiquiti: UniFi Express."

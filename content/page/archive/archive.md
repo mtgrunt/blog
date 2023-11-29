@@ -127,3 +127,5 @@ ____
 11.22.2023: https://mileswallace.com/page/archive/best_cpu_2023/  
 11.23.2023: https://mileswallace.com/page/archive/demis_hassabis/    
 11.28.2023: https://mileswallace.com/page/archive/nfl_teams_week_13/     
+11.29.2023: https://mileswallace.com/page/archive/unifi_express_ubiquiti/     
+
