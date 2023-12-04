@@ -101,21 +101,21 @@ pygmentsCodefencesGuessSyntax = true
 #    weight = 2
 #    body_classes = "open-sans-v15-latin-regular"
 
-[[menu.main]]
-    name = "Sports"
-    url = "page/sports/"
-    weight = 3
-    body_classes = "open-sans-v15-latin-regular"
+#[[menu.main]]
+#   name = "Sports"
+#   url = "page/sports/"
+#   weight = 3
+#   body_classes = "open-sans-v15-latin-regular"
 
-[[menu.main]]
-    name = "Tech"
-    url = "page/tech/tech/"
-    weight = 4
-    body_classes = "open-sans-v15-latin-regular"
+#[[menu.main]]
+#   name = "Tech"
+#   url = "page/tech/tech/"
+#   weight = 4
+#   body_classes = "open-sans-v15-latin-regular"
 
-[[menu.main]]
-    name = "Archive"
-    url = "page/archive/archive/"
-    weight = 5
-    body_classes = "open-sans-v15-latin-regular"
+#[[menu.main]]
+#   name = "Archive"
+#   url = "page/archive/archive/"
+#   weight = 5
+#   body_classes = "open-sans-v15-latin-regular"
         
